@@ -696,9 +696,9 @@ input[type=submit] {
         nav li a {
             color: white;
             text-decoration: none;
-            font-size: 21px;
+            font-size: 20px;
             font-family: 'Open Sans Condensed', sans-serif;
-            letter-spacing: 0.7px;
+            letter-spacing: 0.6px;
             font-weight: 700;
             display: inline-block;
             width: auto;
@@ -789,7 +789,6 @@ input[type=submit] {
 
 /*DESKTOP SCREEN*/
 @media screen and (min-width: 1200px) {
-
     h2{
         font-size: 60px;
     }
@@ -805,9 +804,9 @@ input[type=submit] {
     nav li a {
         color: white;
         text-decoration: none;
-        font-size: 21px;
+        font-size: 25px;
         font-family: 'Open Sans Condensed', sans-serif;
-        letter-spacing: 0.7px;
+        letter-spacing: 0.8px;
         font-weight: 700;
         display: inline-block;
         width: auto;
