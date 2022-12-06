@@ -144,13 +144,13 @@ nav {
         }
 
     nav .currentpage {
-        color: #b200ed;
+        color: #b47ede;
         text-decoration: underline;
         text-decoration-style: dashed;
     }
 
         nav .currentpage:hover {
-            color: #b47ede;
+            color: #c495e8;
         }
 
     nav a:hover {
